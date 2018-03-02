@@ -1,0 +1,7 @@
+c:\users\aluno\source\repos\ListaExercicios\3\bin\Debug\3.exe.config
+c:\users\aluno\source\repos\ListaExercicios\3\bin\Debug\3.exe
+c:\users\aluno\source\repos\ListaExercicios\3\bin\Debug\3.pdb
+c:\users\aluno\source\repos\ListaExercicios\3\obj\Debug\3.csprojResolveAssemblyReference.cache
+c:\users\aluno\source\repos\ListaExercicios\3\obj\Debug\3.csproj.CoreCompileInputs.cache
+c:\users\aluno\source\repos\ListaExercicios\3\obj\Debug\3.exe
+c:\users\aluno\source\repos\ListaExercicios\3\obj\Debug\3.pdb
